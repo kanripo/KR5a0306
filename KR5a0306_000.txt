@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:44:37.997803
+#+TITLE: 列仙傳
+#+PROPERTY: DZID  DZ0294
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—64 二卷 洞真部記傳類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
