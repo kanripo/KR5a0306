@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:37.997803
+# -*- mode: mandoku-view -*-
 #+TITLE: 列仙傳
-#+PROPERTY: DZID  DZ0294
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—64 二卷 洞真部記傳類
+#+DATE: 2015-08-28 23:44:39
+#+PROPERTY:  LASTPB <PB KR5a0306_SJB_002-050070c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶<md:KR5a0306_HFL_002-018b>¶¶¶¶¶¶¶¶¶¶¶
+
